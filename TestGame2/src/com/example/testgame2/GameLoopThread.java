@@ -14,7 +14,7 @@ public class GameLoopThread extends Thread{
 	public void setRunning(boolean run){
 		running = true;
 	}
-	
+	//charlie a bitch ole bitch nigga
 	@Override
 	public void run(){
 		long ticksPS = 1000/FPS;
